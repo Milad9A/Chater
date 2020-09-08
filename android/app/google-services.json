@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "235501116017",
+    "firebase_url": "https://chater-cbd3e.firebaseio.com",
+    "project_id": "chater-cbd3e",
+    "storage_bucket": "chater-cbd3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235501116017:android:ce2d77c79c0354162d19d0",
+        "android_client_info": {
+          "package_name": "com.milad.chater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235501116017-edidn29q33efjr6v74jdn6gctl9tbthn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIKjNTw90il0ArefHq00vyMnim1RtOMlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235501116017-edidn29q33efjr6v74jdn6gctl9tbthn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
